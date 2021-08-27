@@ -99,4 +99,4 @@ int main()
     delete p_dogImage;
     
     return 0;
-}
+
